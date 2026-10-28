@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1793208835 source:c:\users\cli\onedrive\desktop\tp02-c++\ex2\etudiant.cpp
+	"Etudiant.hpp"
+
+1793208904 c:\users\cli\onedrive\desktop\tp02-c++\ex2\etudiant.hpp
+	<string>
+
+1793208685 source:c:\users\cli\onedrive\desktop\tp02-c++\ex2\main.cpp
+	<iostream>
+	"Etudiant.hpp"
+	"Filiere.hpp"
+	<windows.h>
+
+1793208806 c:\users\cli\onedrive\desktop\tp02-c++\ex2\filiere.hpp
+	<string>
+
