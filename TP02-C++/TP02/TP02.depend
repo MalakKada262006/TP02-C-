@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1793178386 source:c:\users\cli\onedrive\desktop\tp02-c++\tp02\etudiant.cpp
+	"Etudiant.hpp"
+	"Filiere.hpp"
+
+1793178463 c:\users\cli\onedrive\desktop\tp02-c++\tp02\etudiant.hpp
+	<string>
+	<iostream>
+
+1793178353 c:\users\cli\onedrive\desktop\tp02-c++\tp02\filiere.hpp
+	<string>
+	<vector>
+	<iostream>
+	<algorithm>
+
+1793178309 source:c:\users\cli\onedrive\desktop\tp02-c++\tp02\filiere.cpp
+	"Filiere.hpp"
+	"Etudiant.hpp"
+
